@@ -1,0 +1,13 @@
+{
+  "name": "www-data/restore-and-enable-classic-widgets",
+  "description": "Restore and Enable Classic Widgets",
+  "type": "wordpress-plugin",
+  "license": "GPL",
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "classmap": [
+      "includes/"
+    ]
+  }
+}
